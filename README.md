@@ -47,11 +47,11 @@ Price_range - This is the target variable with value of 0(low cost), 1(medium co
 
 # Understanding Data
 
-The dataset consists of 2000 records.
-The dataset consists of 19 features.
-No null values were found
-No duplicate values were found
-180 invalid values were found for screen width
+* The dataset consists of 2000 records.
+* The dataset consists of 19 features.
+* No null values were found
+* No duplicate values were found
+* 180 invalid values were found for screen width
 
 # Approach
 1. EDA and Feature Selection
