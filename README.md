@@ -55,3 +55,8 @@ Price_range - This is the target variable with value of 0(low cost), 1(medium co
 
 # Approach
 1. EDA and Feature Selection
+2. Removed Multicollinearity.
+3. Feature Selection.
+4. Splitting Dataset into train and test set.
+5. Model Training.
+6. Model Evaluation.
